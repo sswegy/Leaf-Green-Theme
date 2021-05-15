@@ -1,0 +1,22 @@
+{
+    "name": "leaf-green-theme",
+    "displayName": "Leaf Green Theme",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "sswegy",
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Leaf Green Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Leaf Green Theme-color-theme.json"
+            }
+        ]
+    }
+}
