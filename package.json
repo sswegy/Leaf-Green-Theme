@@ -7,10 +7,20 @@
     "engines": {
         "vscode": "^1.56.0"
     },
+    "galleryBanner": {
+        "color": "#33ff00"
+    },
     "categories": [
         "Themes"
     ],
-    "repository":{
+    "keywords": [
+        "Green theme",
+        "Dark theme",
+        "sswegy",
+        "theme",
+        "green"
+    ],
+    "repository": {
         "type": "git",
         "url": "https://github.com/sswegy/Leaf-Green-Theme"
     },
