@@ -1,4 +1,3 @@
 # README
-## This is the extension "Leaf Green Theme"
-This is a test theme
-### Made by sswegy
+## Visual Studio Code extension "Leaf Green Theme" made by sswegy
+This is a 
