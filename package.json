@@ -29,9 +29,14 @@
     "contributes": {
         "themes": [
             {
-                "label": "Leaf Green Theme",
+                "label": "Leaf Green Theme Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Leaf Green Theme-color-theme.json"
+            },
+            {
+                "label": "Leaf Green Theme Light",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Leaf Green Theme Light-color-theme.json"
             }
         ]
     }
