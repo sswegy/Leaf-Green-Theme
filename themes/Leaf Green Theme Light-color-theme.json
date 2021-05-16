@@ -1269,7 +1269,7 @@
 		"name": "block scope",
 		"scope": "block.scope.end,block.scope.begin",
 		"settings": {
-		  "foreground": "#d4d4d4"
+		  "foreground": "#000000"
 		}
 	  },
 	  {
@@ -1804,7 +1804,7 @@
 		"name": "punctuation.definition.block.sequence.item.yaml",
 		"scope": "punctuation.definition.block.sequence.item.yaml",
 		"settings": {
-		  "foreground": "#d4d4d4"
+		  "foreground": "#000000"
 		}
 	  },
 	  {
