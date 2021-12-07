@@ -37,6 +37,11 @@
                 "label": "Leaf Green Theme Light",
                 "uiTheme": "vs",
                 "path": "./themes/Leaf Green Theme Light-color-theme.json"
+            },
+            {
+                "label": "Greener Theme",
+                "uiTheme": "vs",
+                "path": "./themes/greener_theme.json"
             }
         ]
     }
